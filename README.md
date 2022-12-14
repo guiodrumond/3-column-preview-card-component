@@ -1,10 +1,12 @@
 # Frontend Mentor - 3-column preview card component solution
 
-Esta é a minha solução para o desafio proposto pelo site Frontend Mentor. A proposta era fazer um card com três componentes em colunas, com uma pequena imagem, título, texto descritivo e um botão interativo. Cada coluna com uma cor diferente.
+Esta é a minha solução para o desafio proposto pelo site Frontend Mentor. A proposta era fazer um card com três colunas, com uma pequena imagem, título, texto descritivo e um botão interativo. Cada coluna com uma cor diferente. O componente deveria ser responsivo para o formato mobile.
 
 ## Desafios do exercício
 
 Cada coluna possui três cores diferentes. Me propus a não criar diferentes classes no HTML para cada coluna, mas usar o CSS para mudar o estilo das colunas de acordo com sua ordem usando pseudo-classes.
+
+Também era preciso tornar responsivo mudando o formato do elemento para telas mobile.
 
 ## Screenshot
 
